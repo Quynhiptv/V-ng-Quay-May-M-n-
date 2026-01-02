@@ -1,0 +1,10 @@
+{
+  "name": "Vòng Quay May Mắn",
+  "short_name": "Vòng Quay",
+  "description": "Ứng dụng vòng quay may mắn chuyên nghiệp, tương thích tốt với mọi phiên bản Android và mọi kích thước màn hình.",
+  "theme_color": "#9333ea",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "requestFramePermissions": []
+}
