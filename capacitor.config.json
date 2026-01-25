@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.vongquay.app",
+  "appName": "Vòng Quay",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

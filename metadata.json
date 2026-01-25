@@ -1,10 +1,18 @@
 {
-  "name": "Vòng Quay May Mắn",
+  "name": "Vòng Quay",
   "short_name": "Vòng Quay",
-  "description": "Ứng dụng vòng quay may mắn chuyên nghiệp, tương thích tốt với mọi phiên bản Android và mọi kích thước màn hình.",
+  "description": "Ứng dụng vòng quay may mắn chuyên nghiệp, giao diện hiện đại, quay thưởng công bằng.",
   "theme_color": "#9333ea",
-  "background_color": "#ffffff",
+  "background_color": "#9333ea",
   "display": "standalone",
   "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8638/8638133.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
   "requestFramePermissions": []
 }
